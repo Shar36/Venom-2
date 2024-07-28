@@ -4,33 +4,33 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916909137213"
-global.ownername = "David Cyril"
-global.ytname = "David Cyril"
-global.socialm = "GitHub: DeeCeeXxx"
-global.location = "Africa, Nigeria, Lagos"
+global.ownernomer = "923278974102"
+global.ownername = "𝓗𝓘𝓩𝓑𝓤𝓛𝓛𝓐𝓗"
+global.ytname = ""
+global.socialm = ""
+global.location = "Simdh/Karachi"
 
-global.ownernumber = '2347043759577,2349066528353,254782572110'  //creator number
-global.ownername = 'David Cyril' //owner name
+global.ownernumber = '923314333835,923278974102,923183056493'  //creator number
+global.ownername = '𝓗𝓘𝓩𝓑𝓤𝓛𝓛𝓐𝓗' //owner name
 global.botname = '🕷Venom-2🕷' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'David_Cyril\n\nContact: +2349066528353'
+global.packname = 'ᴍᴀᴅᴇ ʙʏ'
+global.author = 'ᴀʟᴀɴ ᴡᴀʟᴋᴇʀ'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "David Cyril Tech."
+global.wm = "ᴍᴀᴅᴇ ʙʏ ᴀʟᴀɴ ᴡᴀʟᴋᴇʀ"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L'
+global.link = 'https://chat.whatsapp.com/FioZaOezu5sJ5Kyxjl8wmB'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
